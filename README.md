@@ -1,5 +1,5 @@
 # WinClientX
 
-Other Launguages: [Русский - Russian](READMErus.md)
+Другие языки: [Русский - Russian](https://github.com/SamirYT001/WinClientX/tree/main)
 
-### WARNING! INDEV (IN DEVELOPMENT)
+### ВНИМАНИЕ! В РАЗРАБОТКЕ
