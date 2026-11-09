@@ -1,10 +1,5 @@
 # WinClientX
 
-<div style="text-align: left;">
-  <details>
-    <summary>🌐 Language</summary>
-        [Русский - Russian](READMErus.md)
-  </details>
-</div>
+Other Launguages: [Русский - Russian](READMErus.md)
 
 ### WARNING! INDEV (IN DEVELOPMENT)
